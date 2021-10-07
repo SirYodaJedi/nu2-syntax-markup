@@ -30,7 +30,7 @@
             <Keywords name="Keywords4">Volume</Keywords>
             <Keywords name="Keywords5">Cue</Keywords>
             <Keywords name="Keywords6">DefaultLanguage&#x000D;&#x000A;DefaultBus&#x000D;&#x000A;DefaultRoutingTable&#x000D;&#x000A;Localise&#x000D;&#x000A;ReportErrors</Keywords>
-            <Keywords name="Keywords7">MainOutput&#x000D;&#x000A;WiiURemote</Keywords>
+            <Keywords name="Keywords7">Quiet&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords8"></Keywords>
             <Keywords name="Delimiters">00&quot; 01 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
